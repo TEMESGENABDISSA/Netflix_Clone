@@ -1,5 +1,4 @@
-🎬 Netflix Clone (Frontend Only)
-
+# 🎬 Netflix Clone 
 A Netflix-inspired frontend project built with React (Vite).
 This project fetches real movie/TV show data from the TMDB API and displays it with a modern and responsive UI.
 
