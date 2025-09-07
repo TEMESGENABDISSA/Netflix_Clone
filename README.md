@@ -2,7 +2,7 @@
 A Netflix-inspired frontend project built with React (Vite).
 This project fetches real movie/TV show data from the TMDB API and displays it with a modern and responsive UI.
 
-🚀 Features
+#🚀 Features
 
 🎥 Browse movies & TV shows from TMDB
 
@@ -13,7 +13,8 @@ This project fetches real movie/TV show data from the TMDB API and displays it w
 📱 Responsive design for desktop and mobile
 
 🔍 Search-ready structure (can be extended)
-🛠️ Tech Stack
+
+# 🛠️ Tech Stack
 
 ⚡ React.js
  with Vite
@@ -24,7 +25,9 @@ This project fetches real movie/TV show data from the TMDB API and displays it w
  for API requests
 
 🔑 TMDB API
-⚙️ Setup Instructions
+
+# ⚙️ Setup Instructions
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/netflix-clone.git
 cd netflix-clone
@@ -38,7 +41,7 @@ VITE_API_KEY=your_tmdb_api_key
 4️⃣ Run the Project
 npm run dev
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Temesgen Abdissa
 
